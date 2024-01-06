@@ -1,0 +1,7 @@
+*.suo
+*.user
+
+/.vs
+/obj
+/bin
+/Libs/Assembly-CSharp.dll
